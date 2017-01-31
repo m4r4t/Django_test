@@ -1,2 +1,3 @@
 *.pyc
 **/myproject/static/admin
+**/.ropeproject
