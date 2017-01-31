@@ -1,3 +1,4 @@
 *.pyc
 **/myproject/static/admin
 **/.ropeproject
+*.swp
